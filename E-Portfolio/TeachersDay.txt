@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head><Title> 2nd Quarter Events </title>
+<link rel="stylesheet" href="design.css" type="text/css">
+</head>
+<body>
+
+<nav class="navigation">
+<ul>
+ <li><a href="Events.html"> Cluster Meet </a></li>
+ <li><a href="TeachersDay.html"> Teacher's Day </a></li>
+ <li><a href="Intrams.html"> Intrams </a></li>
+ <li><a href="SciMonth.html"> Science Month </a></li>
+ <li><a href="APMonth.html"> AP Month </a></li>
+ <li><a href="BuwanNgWika.html"> Buwan Ng Wika </a></li>
+ <li><a href="EPORTFOLIO.html"> Home </a></li>
+</ul>
+</nav>
+ 
+<h1> Teacher's Day </h1>
+
+<h3>What is the most important thing I learned from the event? </h3> <br>
+<p>
+The most important thing I learned from this event is that students are not the only ones that get tired, it is also our teachers, I learned that teachers will do everything in order to make us successful, they put their all in to teaching us and welcoming us in this school, they come home tired from their work yet still they go back to the classroom the next day to greet us with a smile and teach us.
+</p><br>
+
+<h3> How can I apply what i have learned in real life situations? </h3> <br>
+<p>
+I can apply this by respecting my teachers of their time and that they are not always available, knowing my boundaries of stubborness and listening well to my teachers discussion.
+</p><br>
+
+<h3> Did I actively participate in the event? How? </h3> <br>
+<p>
+I did not, but I did go to the school in teachers day, greeting my teachers a happy teachers day with my classmates.
+</p><br>
+
+<h3> If i were to teach this topic/subject to a classmate, how would I explain it? </h3> <br>
+<p>
+ I will explain the importance of teachers day, and why we need to always respect our teachers.
+</p><br>
+
+<h3> Why is it important to have an event (per subject)? Explain your answer. </h3> <br>
+<p> 
+It is important to have an event like this because it gives teachers time to rest and enjoy a full day without having the burden of teaching for hours and checking paper, it teaches students to respect teachers, to treat them like family because they will go 1 year with them teaching. It also allows students to bond with their teachers strenghtening their relationship as student and teacher, allowing more enjoyable times and interactions in class.
+</p><br>
+
+
+<hr color="RoyalBlue" style="height:25px;border:8px Groove DarkSlateGray;Margin:5px;">
+<h1> Videos And Photos </h1>
+<video width="640" height="360" controls>
+  <source src="Teachersday3.mp4" type="video/mp4"> 
+</video>
+<img src="Teachersday2.jpeg" alt="Teachers day" width="600px" height="400px"> <img src="Teachersday1.jpeg" alt="Teachers day" width="600px" height="400px">
+
+<p style="font-size:25px;text-align:center;"> Credits to Ms. Sheila Banate </p>
+</body>
+</html>
